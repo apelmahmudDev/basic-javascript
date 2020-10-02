@@ -13,4 +13,6 @@ var promise = "I will work HARD TO become a programmer";
 console.log(promise.toLocaleUpperCase());
 console.log(promise.length);
 console.log(promise.indexOf('to'));
-console.log(promise.split(' '));``
+console.log(promise.split(' '));
+
+
